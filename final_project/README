@@ -1,0 +1,19 @@
+Connor Monson
+cmonson@ucsc.edu
+cmonson
+
+Final Project submission files include:
+- connormonson-final.pdf
+(PDF with my solutions/screenshots to the final)
+
+- connormonson-final.py
+(where I created the topology of hosts and switches)
+
+- connormonson-finalcontroller.py
+(POX controller file in which I created the firewall
+for ICMP traffic and IP traffic. h4 cannot send any ICMP
+traffic to any other host. H4 cannot send any IP traffic
+to the server)
+
+- README
+(this file: describing the content of each submitted file)
